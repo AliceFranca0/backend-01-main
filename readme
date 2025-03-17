@@ -3,3 +3,8 @@ Para rodar o projeto
 npm install
 
 npm run start-dev
+
+Cors: é um recurso de segurança que permite que aplicações web acessem recursos de outros domínios.Serve para criar aplicações web que consomem APIs de terceiros. 
+Express: é um framework web para Node.js que permite criar aplicações web e móveis.
+Dotenv: é um pacote que gerencia variáveis de ambiente em arquivos .env, isso permite centralizar a configuração e parametrizar valores que variam entre ambientes.
+Nodemon: é uma ferramenta que reinicia automaticamente o servidor Node.js quando há alterações nos arquivos da aplicação.
